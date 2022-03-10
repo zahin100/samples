@@ -3,6 +3,8 @@ package samples.demo;
 public class Location 
 {
 	private int attribute;
+	private int sample;
+	private int git;
 
 	public int getAttribute() {
 		return attribute;
